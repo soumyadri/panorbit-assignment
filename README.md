@@ -1,4 +1,4 @@
-![soumyadri_photo-removebg](https://github.com/soumyadri/panorbit-assignment/assets/52272658/0a0a0bb2-d23e-46bd-bdc0-3afbdad28482)# PanorBit Assignment
+# PanorBit Assignment
 
 ### Introducing Panorbit User Profile Management System
 
